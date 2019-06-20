@@ -1,0 +1,8 @@
+[package]
+name = "chacha"
+version = "0.1.0"
+authors = ["Yuta Hashimoto <yuta.hashimoto@s.okayama-u.ac.jp>"]
+edition = "2018"
+
+[dependencies]
+hex = "0.3.2"
